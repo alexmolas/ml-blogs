@@ -7,7 +7,7 @@ To add your blog feel free to open a PR. If you don't feel to open a PR feel fre
 # List of blogs
 
 * **Author**: Alex Molas
-* **Blog URL**: [www.amolas.dev](www.amolas.dev)
+* **Blog URL**: [www.amolas.dev](https://www.amolas.dev)
 * **Description**: Personal blog about machine learning, maths, and other tech topics.
 ---
 * **Author**: Chip Huyen
