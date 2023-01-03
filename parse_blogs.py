@@ -10,7 +10,7 @@ To add your blog feel free to open a PR. If you don't feel to open a PR feel fre
 """
 url = "https://docs.google.com/spreadsheets/d/1H9ceAbEkSvtzg8A2x0BkI44qJw3Cq0rPdnCihGMn8rU/export?format=csv&gid=0"
 
-data = pd.read_csv(url)
+data = pd.read_csv(url).sort_values(by="Author")
 
 with open("README.md", "w") as f:
     f.write(INTRO)
