@@ -98,12 +98,12 @@ To add your blog feel free to open a PR. If you don't feel to open a PR feel fre
 * **Description** : nan 
 --- 
 * **Author** : Jesper Dramsch 
-* **URL** : [https://dramsch.net/newsletter ](https://dramsch.net/newsletter ) 
-* **Description** : Weekly newsletter sharing awesome things I found in ML, data viz, and on the internet + personal updates. 
---- 
-* **Author** : Jesper Dramsch 
 * **URL** : [https://dramsch.net/articles](https://dramsch.net/articles) 
 * **Description** : Personal blog about ML, Python, and data. And of course random stuff that catches my attention. 
+--- 
+* **Author** : Jesper Dramsch 
+* **URL** : [https://dramsch.net/newsletter ](https://dramsch.net/newsletter ) 
+* **Description** : Weekly newsletter sharing awesome things I found in ML, data viz, and on the internet + personal updates. 
 --- 
 * **Author** : Jesse Mostipak 
 * **URL** : [https://weightedtangents.substack.com/](https://weightedtangents.substack.com/) 
@@ -128,6 +128,10 @@ To add your blog feel free to open a PR. If you don't feel to open a PR feel fre
 * **Author** : Lilian Weng 
 * **URL** : [https://lilianweng.github.io](https://lilianweng.github.io) 
 * **Description** : Maths behind ML and DL 
+--- 
+* **Author** : Lior Sinai 
+* **URL** : [https://liorsinai.github.io/](https://liorsinai.github.io/) 
+* **Description** : Musings on mathematics, coding and physics. 
 --- 
 * **Author** : Lucy 
 * **URL** : [https://lucytalksdata.com/](https://lucytalksdata.com/) 
@@ -185,6 +189,10 @@ To add your blog feel free to open a PR. If you don't feel to open a PR feel fre
 * **URL** : [https://sidneyochieng.co.ke](https://sidneyochieng.co.ke) 
 * **Description** : Data, programming and other things 
 --- 
+* **Author** : Steven Morse 
+* **URL** : [https://stmorse.github.io/blog.html](https://stmorse.github.io/blog.html) 
+* **Description** : outlet for personal and professional research, with a focus on applied math and statistics 
+--- 
 * **Author** : Susan Shu Chang 
 * **URL** : [https://www.susanshu.com/](https://www.susanshu.com/) 
 * **Description** : career development, data science/ML, productivity, and more 
@@ -216,4 +224,8 @@ To add your blog feel free to open a PR. If you don't feel to open a PR feel fre
 * **Author** : Vincent 
 * **URL** : [https://koaning.io/](https://koaning.io/) 
 * **Description** : understanding algorithmic systems so that one may prevent failure 
+--- 
+* **Author** : Will Kurt 
+* **URL** : [https://www.countbayesie.com/](https://www.countbayesie.com/) 
+* **Description** : explore issues in Bayesian and Frequentist statistics as well as topics usually left for a rigorous study of probability with measure theory (though as often as possible the aim will be to minimize rigor and maximize insight). 
 --- 
