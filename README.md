@@ -89,6 +89,10 @@ To add your blog feel free to open a PR. If you don't feel to open a PR feel fre
 * **URL** : [http://jalammar.github.io/](http://jalammar.github.io/) 
 * **Description** : Visualizing machine learning one concept at a time. 
 --- 
+* **Author** : Jay Mody 
+* **URL** : [https://jaykmody.com/](https://jaykmody.com/) 
+* **Description** : Machine learning, maths 
+--- 
 * **Author** : Jenna Jordan 
 * **URL** : [https://jennajordan.me/](https://jennajordan.me/) 
 * **Description** : I do data stuff with python + SQL. Learned to code at library school. Knitter. Dog mom. Nerdy for sci-fi/fantasy, board games, and well-wrangled data.  
