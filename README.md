@@ -14,7 +14,7 @@ To add your blog feel free to open a PR. If you don't feel to open a PR feel fre
 * **Description** : Drawings on machine learning concepts 
 --- 
 * **Author** : Andis Arietta 
-* **URL** : [www.azandisresearch.com](www.azandisresearch.com) 
+* **URL** : [https://www.azandisresearch.com](https://www.azandisresearch.com) 
 * **Description** : Ecological and molecular data science 
 --- 
 * **Author** : Andrej Karpathy 
@@ -30,7 +30,7 @@ To add your blog feel free to open a PR. If you don't feel to open a PR feel fre
 * **Description** : Musings on systems, information, learning, and optimization 
 --- 
 * **Author** : Chip Huyen 
-* **URL** : [huyenchip.com](huyenchip.com) 
+* **URL** : [https://www.huyenchip.com](https://www.huyenchip.com) 
 * **Description** : Blog about real-time machine learning in production and other data science topics. 
 --- 
 * **Author** : Chris Albon 
@@ -54,11 +54,11 @@ To add your blog feel free to open a PR. If you don't feel to open a PR feel fre
 * **Description** : Management, cloud, software 
 --- 
 * **Author** : Ethan Rosenthal 
-* **URL** : [www.ethanrosenthal.com](www.ethanrosenthal.com) 
+* **URL** : [https://www.ethanrosenthal.com](https://www.ethanrosenthal.com) 
 * **Description** : Blog about data, science, etc. 
 --- 
 * **Author** : Eugene Yan 
-* **URL** : [www.eugeneyan.com](www.eugeneyan.com) 
+* **URL** : [https://www.eugeneyan.com](https://www.eugeneyan.com) 
 * **Description** : Design, build, and operate machine learning systems that serve customers at scale 
 --- 
 * **Author** : Eugene Yan 
