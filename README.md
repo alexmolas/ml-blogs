@@ -233,3 +233,11 @@ To add your blog feel free to open a PR. If you don't feel to open a PR feel fre
 * **URL** : [https://www.countbayesie.com/](https://www.countbayesie.com/) 
 * **Description** : explore issues in Bayesian and Frequentist statistics as well as topics usually left for a rigorous study of probability with measure theory (though as often as possible the aim will be to minimize rigor and maximize insight). 
 --- 
+* **Author** : Hardmaru 
+* **URL** : [https://blog.otoro.net/](https://blog.otoro.net/) 
+* **Description** : simple things with neural networks. 
+--- 
+* **Author** : Carlos E. Perez
+* **URL** : [https://intuitmachine.medium.com/](https://intuitmachine.medium.com/) 
+* **Description** : Author of Artificial Intuition and the Deep Learning Playbook
+--- 
