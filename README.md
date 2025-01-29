@@ -241,3 +241,19 @@ To add your blog feel free to open a PR. If you don't feel to open a PR feel fre
 * **URL** : [https://intuitmachine.medium.com/](https://intuitmachine.medium.com/) 
 * **Description** : Author of Artificial Intuition and the Deep Learning Playbook
 --- 
+* **Author** : Mayank Gupta
+* **URL** : [https://www.scaler.com/blog/machine-learning-roadmap/](https://www.scaler.com/blog/machine-learning-roadmap/) 
+* **Description** : Roadmap - Machine Learning
+--- 
+* **Author** : Mohit Uniyal
+* **URL** : [https://www.appliedaicourse.com/blog/machine-learning-roadmap/](https://www.appliedaicourse.com/blog/machine-learning-roadmap/) 
+* **Description** : Machine Learning Roadmap: Zero to Expert
+--- 
+* **Author** : Team Applied AI
+* **URL** : [https://www.appliedaicourse.com/blog/data-science-roadmap/](https://www.appliedaicourse.com/blog/data-science-roadmap/) 
+* **Description** : Data Science Roadmap: An In-Depth Guide
+--- 
+* **Author** : Tushar Bisht
+* **URL** : [https://www.scaler.com/blog/data-science-roadmap/](https://www.scaler.com/blog/data-science-roadmap/) 
+* **Description** : Data Science Roadmap
+--- 
