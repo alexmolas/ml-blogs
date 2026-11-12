@@ -28,7 +28,12 @@ To add your blog feel free to open a PR. If you don't feel to open a PR feel fre
 * **Author** : Ben Recht 
 * **URL** : [http://www.argmin.net/about/](http://www.argmin.net/about/) 
 * **Description** : Musings on systems, information, learning, and optimization 
+---
 --- 
+* **Author** : James Verlander 
+* **URL** : [https://pastagi.com](https://pastagi.com) 
+* **Description** : Practical AI engineering guides with the math shown: serving-cost audits, eval variance, and prompt-dependency analysis. 
+ 
 * **Author** : Chip Huyen 
 * **URL** : [https://www.huyenchip.com](https://www.huyenchip.com) 
 * **Description** : Blog about real-time machine learning in production and other data science topics. 
